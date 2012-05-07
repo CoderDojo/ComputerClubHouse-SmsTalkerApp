@@ -1,4 +1,5 @@
 CoderDojo @ Computer Club House Conference Dublin 2012
+======================================================
 
 The Sms Talker app, was an easy to build application we presented to the delegates showing how with a few lines of code a cool and fun application can be built. To get this application up and running you will need to 
 
