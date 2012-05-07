@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="coderdojo">CoderDojo</string>
+    <string name="computerClub">Computer Club House</string>
+    <string name="conference">Conference Dublin 2012</string>
+    <string name="app_name">Sms Talker</string>
+	<string name="smsTalker">Sms Talker App</string>
+    
+</resources>
