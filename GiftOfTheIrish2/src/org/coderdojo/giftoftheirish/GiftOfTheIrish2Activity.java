@@ -100,11 +100,11 @@ public class GiftOfTheIrish2Activity extends Activity {
     }
     
     /**
-     * Handles the starting of the watchers
+     * Handles the stoping of the watchers
      * @param view
      */
     private void startWatcher(View view) {
-    	handleButton("Stop Lisening", Color.RED);
+    	handleButton("Stop Listening", Color.RED);
 	    registerReceiver(watchForSms, smsIntent); 
 	    isRegistered = true;
 	    application.setReadSmsOutLoud(true);
@@ -129,7 +129,7 @@ public class GiftOfTheIrish2Activity extends Activity {
     	   isRegistered = false;
     	 }
     	 //set the text and color
-      	 handleButton("Start Lisening", Color.GREEN);
+      	 handleButton("Start Listening", Color.GREEN);
       	 application.setReadSmsOutLoud(false);
     }
     
